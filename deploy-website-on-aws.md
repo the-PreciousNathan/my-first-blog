@@ -118,10 +118,3 @@ Try this method on your EC2 instance and let me know how it goes.
 
 
 
-***Want to go further? In the next post I’ll cover:***
-
-*   ***How to configure CloudFront with an EC2/nginx origin***
-    
-*   ***TLS (ACM) and custom domains for CloudFront***
-    
-*   ***Cache strategies, invalidations, and CI/CD for fast rollouts***
